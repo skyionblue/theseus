@@ -8,7 +8,7 @@ import (
 
 	"github.com/yudai/gojsondiff/formatter"
 
-	"github.com/heptio/theseus/pkg/source"
+	"github.com/heptiolabs/theseus/pkg/source"
 )
 
 func PrintDeltas(diff source.ResourceSet, w io.Writer, color bool) {

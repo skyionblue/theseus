@@ -4,7 +4,7 @@ import (
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/util/errors"
 
-	"github.com/heptio/theseus/pkg/source"
+	"github.com/heptiolabs/theseus/pkg/source"
 )
 
 type Report struct {

@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/heptio/theseus/pkg/cmd/theseus"
+	"github.com/heptiolabs/theseus/pkg/cmd/theseus"
 )
 
 func main() {
