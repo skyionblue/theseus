@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/heptio/theseus/pkg/cmd/diff"
+	"github.com/heptiolabs/theseus/pkg/cmd/diff"
 )
 
 func NewCommand() *cobra.Command {

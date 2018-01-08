@@ -11,8 +11,8 @@ import (
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	"github.com/heptio/theseus/pkg/diff"
-	"github.com/heptio/theseus/pkg/source"
+	"github.com/heptiolabs/theseus/pkg/diff"
+	"github.com/heptiolabs/theseus/pkg/source"
 )
 
 func NewCommand() *cobra.Command {
